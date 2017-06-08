@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_129383_needitvar_needitvar</description>
+        <name>x_129383_needitvar_needitvar</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-08 02:25:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9289e25cdbd732004c44f34ebf9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_129383_needitvar_needitvar</sys_name>
+        <sys_package display_value="NeedItVarun" source="x_129383_needitvar">daa86a1cdbd732004c44f34ebf961967</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedItVarun">daa86a1cdbd732004c44f34ebf961967</sys_scope>
+        <sys_update_name>sys_security_acl_9289e25cdbd732004c44f34ebf9619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-08 02:25:57</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
